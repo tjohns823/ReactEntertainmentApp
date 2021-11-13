@@ -36,14 +36,6 @@ The page will reload if you make edits.\
   - Navbar not Complete.
   - Filter by genre and filter multiple movies displayed.
 
-## ScreenShots
-![](Images.filename%20ScreenshotMainPage.png)
-
-![](Images.filename%20ScreenshotMainPage.png)
-
-![](Images.filename%20ScreenshotSearchResult.png)
-
-
 
 ## Contributors
 
