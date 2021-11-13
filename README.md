@@ -37,11 +37,11 @@ The page will reload if you make edits.\
   - Filter by genre and filter multiple movies displayed.
 
 ## ScreenShots
-![](Images.filename Screenshot MainPage.png)
+![](Images.filename%20ScreenshotMainPage.png)
 
-![](Images.filename Screenshot MainPage.png)
+![](Images.filename%20ScreenshotMainPage.png)
 
-![](Images.filename Screenshot SearchResult.png)
+![](Images.filename%20ScreenshotSearchResult.png)
 
 
 
