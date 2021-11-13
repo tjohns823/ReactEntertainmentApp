@@ -1,0 +1,31 @@
+#movies img,
+#movie img {
+  width: 100%;
+}
+.brand-text {
+  font-size: 2rem;
+}
+.bg-dark{
+  background: rgb(36,0,13);
+background: radial-gradient(circle, rgba(36,0,13,1) 0%, rgba(31,2,12,0.9279061966583508) 49%, rgba(17,3,3,0.02594541234462533) 100%);
+}
+.btn{
+  background: rgb(36,0,13);
+background: black;
+}
+.h3, h3, hr {
+  font-size: 1.75rem;
+  text-align: center;
+}
+
+
+
+@media (min-width: 960px) {
+  #movies .col-md-3 .well {
+    height: 390px;
+  }
+
+  #movies .col-md-3 img {
+    height: 240px;
+  }
+}
